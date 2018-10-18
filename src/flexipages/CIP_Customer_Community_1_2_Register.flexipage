@@ -3,39 +3,36 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
-                <name>richTextValue</name>
-                <value>&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;PASSWORD RESET&lt;/span&gt;&lt;/div&gt;</value>
+                <name>fields</name>
             </componentInstanceProperties>
-            <componentName>forceCommunity:richTextInline</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentInstanceProperties>
-                <name>richTextValue</name>
-                <value>&lt;div style=&quot;text-align: center;&quot;&gt;Please enter the email address that you used when creating your account. An email will be sent to that address with further instructions on how to reset your password.&lt;/div&gt;</value>
+                <name>includePasswordField</name>
+                <value>false</value>
             </componentInstanceProperties>
-            <componentName>forceCommunity:richTextInline</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentInstanceProperties>
-                <name>checkEmailUrl</name>
+                <name>program</name>
+                <value>a0Z0b00000FbqeJEAR</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>regConfirmUrl</name>
                 <value>./CheckPasswordResetEmail</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>submitButtonLabel</name>
-                <value>Send Password Reset Email</value>
+                <name>showLogin</name>
+                <value>true</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
-                <name>usernameLabel</name>
-                <value>Username</value>
+                <name>startUrl</name>
             </componentInstanceProperties>
-            <componentName>salesforceIdentity:forgotPassword2</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentInstanceProperties>
-                <name>richTextValue</name>
-                <value>&lt;div style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;./&quot;&gt;Cancel&lt;/a&gt;&lt;/div&gt;</value>
+                <name>titleValueLogin</name>
+                <value>Already a member?</value>
             </componentInstanceProperties>
-            <componentName>forceCommunity:richTextInline</componentName>
+            <componentInstanceProperties>
+                <name>titleValueRegistration</name>
+                <value>Join now</value>
+            </componentInstanceProperties>
+            <componentName>FieloPLT:CommunityRegistration</componentName>
         </componentInstances>
         <name>content</name>
         <type>Region</type>
@@ -50,16 +47,16 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>title</name>
-                <value>Forgot Password</value>
+                <value>Register</value>
             </componentInstanceProperties>
             <componentName>forceCommunity:seoAssistant</componentName>
         </componentInstances>
         <name>sfdcHiddenRegion</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Forgot Password</masterLabel>
+    <masterLabel>Register</masterLabel>
     <template>
         <name>siteforce:sldsOneColLayout</name>
     </template>
-    <type>CommForgotPasswordPage</type>
+    <type>CommSelfRegisterPage</type>
 </FlexiPage>
