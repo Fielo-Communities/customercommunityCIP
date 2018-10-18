@@ -3,7 +3,7 @@
     <isVisibleByExternalUsers>true</isVisibleByExternalUsers>
     <language>en_US</language>
     <masterLabel>BGCIP1</masterLabel>
-    <originNetwork>Contractor Incentive Program</originNetwork>
+    <originNetwork></originNetwork>
     <relationships>
         <workspace>
             <access>INFERRED</access>
