@@ -2,7 +2,7 @@
 <ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
     <isVisibleByExternalUsers>true</isVisibleByExternalUsers>
     <language>en_US</language>
-    <masterLabel>BGCIP</masterLabel>
+    <masterLabel>CIPC_Invoice</masterLabel>
     <originNetwork></originNetwork>
     <relationships>
         <workspace>
@@ -14,7 +14,7 @@
     <versions>
         <version>
             <number>1</number>
-            <pathOnClient>BGCIP.jpg</pathOnClient>
+            <pathOnClient>CIPC_Invoice.jpg</pathOnClient>
         </version>
     </versions>
 </ContentAsset>
