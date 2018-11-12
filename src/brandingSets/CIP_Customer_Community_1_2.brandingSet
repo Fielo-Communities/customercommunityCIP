@@ -26,7 +26,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LoginBackgroundColor</propertyName>
-        <propertyValue>#000000</propertyValue>
+        <propertyValue>#F4F4F4</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>ActionColor</propertyName>
@@ -42,7 +42,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LoginBackgroundImage</propertyName>
-        <propertyValue>rgba(43, 43, 43, 0.9)</propertyValue>
+        <propertyValue>#000000</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PageBackgroundColor</propertyName>
