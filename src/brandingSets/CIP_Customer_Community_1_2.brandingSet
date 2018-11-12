@@ -42,7 +42,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LoginBackgroundImage</propertyName>
-        <propertyValue>/file-asset/BGCIP?v=1</propertyValue>
+        <propertyValue>rgba(43, 43, 43, 0.9)</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PageBackgroundColor</propertyName>
@@ -80,6 +80,6 @@
         <propertyName>LinkColor</propertyName>
         <propertyValue>#111111</propertyValue>
     </brandingSetProperty>
-    <masterLabel>CIP_Customer_Community</masterLabel>
+    <masterLabel>CIP_Customer_Community_1_2</masterLabel>
     <type>jepson:branding-jepson</type>
 </BrandingSet>
