@@ -26,7 +26,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LoginBackgroundColor</propertyName>
-        <propertyValue>#F4F4F4</propertyValue>
+        <propertyValue>#000000</propertyValue>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>ActionColor</propertyName>
