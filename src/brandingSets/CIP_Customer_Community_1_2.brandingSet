@@ -42,7 +42,7 @@
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>LoginBackgroundImage</propertyName>
-        <propertyValue>#000000</propertyValue>
+        <image>siteAsset_d90ece44bbfd4d6f82cc84d899c83a35</image>
     </brandingSetProperty>
     <brandingSetProperty>
         <propertyName>PageBackgroundColor</propertyName>
